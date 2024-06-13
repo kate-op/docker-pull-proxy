@@ -1,1 +1,3 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+jxxghp/MoviePilot:latest registry.cn-guangzhou.aliyuncs.com/dockerhub_sync:latest
+advplyr/audiobookshelf:latest registry.cn-guangzhou.aliyuncs.com/dockerhub_sync:latest
+iyuucn/iyuuplus:latest registry.cn-guangzhou.aliyuncs.com/dockerhub_sync:latest
